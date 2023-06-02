@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shanthgoud
 - 👀 I’m interested in python
-- 🌱 I’m currently Working as Data Analyst
+- 🌱 I’m currently Working as Senior Data Analyst
 - 👀 Suggestions accepted on career advice
 
 <!---
